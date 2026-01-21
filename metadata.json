@@ -1,0 +1,30 @@
+{
+  "name": "Huaqiu KiCad Library",
+  "description": "Huaqiu datasource for the KiCad schematic remote symbol panel.",
+  "description_full": "Huaqiu datasource for the KiCad schematic remote symbol panel.\nSee https://www.eda.cn/ for more details.",
+  "identifier": "com.github.Huaqiu-Electronics.huaqiu-kicad-library",
+  "type": "datasource",
+  "author": {
+    "name": "Ethan Chien",
+    "contact": {
+      "url": "https://github.com/Huaqiu-Electronics"
+    }
+  },
+  "license": "MIT",
+  "resources": {
+    "server": "https://www.eda.cn/kicadLibrary",
+    "instructions": "https://github.com/Huaqiu-Electronics/huaqiu-kicad-library"
+  },
+  "versions": [
+    {
+      "kicad_version": "9.99.0",
+      "version": "0.1.0",
+      "status": "stable",
+      "platforms": [
+        "windows",
+        "macos",
+        "linux"
+      ]
+    }
+  ]
+}
