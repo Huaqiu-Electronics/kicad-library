@@ -17,8 +17,8 @@
   },
   "versions": [
     {
-      "kicad_version": "9.99.0",
-      "version": "0.1.1",
+      "kicad_version": "10.0.0",
+      "version": "1.0.1",
       "status": "stable",
       "platforms": [
         "windows",
